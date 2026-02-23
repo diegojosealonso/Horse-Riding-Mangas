@@ -9,12 +9,16 @@ XML Namespaces: Added namespaces to organize the data correctly.
 HTML Page: Built a simple website to show the manga info using basic tags.
 
 📸 Screenshots
+
+
 <img width="1899" height="903" alt="Captura de pantalla 2026-02-23 214619" src="https://github.com/user-attachments/assets/478194fc-1fc1-4908-af51-9f34d938392c" />
 
 <img width="1898" height="907" alt="Captura de pantalla 2026-02-23 214626" src="https://github.com/user-attachments/assets/e194ef8f-0308-4c5f-8644-179cc9b1a5f8" />
 
 
+
 🔗 Live Link
-Check out the site here: 
+Check out the site here: https://diegojosealonso.github.io/Horse-Riding-Mangas/
 
 Hope you like it! 🐎✨
+
