@@ -1,4 +1,5 @@
-🐴 Manga & Horses: XML Project
+# 🐴 Manga & Horses: XML Project
+
 Hi! I'm a develpment student who is currently obsessed with horses because I'm reading a book about them, so I decided to make this project about Horse Riding Mangas. I think they are super cute and I wanted to share that passion through this code!
 
 What I did:
@@ -21,4 +22,5 @@ HTML Page: Built a simple website to show the manga info using basic tags.
 Check out the site here: https://diegojosealonso.github.io/Horse-Riding-Mangas/
 
 Hope you like it! 🐎✨
+
 
