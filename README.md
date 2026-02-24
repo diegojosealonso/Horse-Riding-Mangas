@@ -2,7 +2,9 @@
 
 Hi! I'm a develpment student who is currently obsessed with horses because I'm reading a book about them, so I decided to make this project about Horse Riding Mangas. I think they are super cute and I wanted to share that passion through this code!
 
+
 BTW! Art by @makeout_sesh on instagram!
+
 
 What I did:
 XML Document: Created a structured file with info about two horse mangas.
@@ -24,6 +26,7 @@ HTML Page: Built a simple website to show the manga info using basic tags.
 Check out the site here: https://diegojosealonso.github.io/Horse-Riding-Mangas/
 
 Hope you like it! 🐎✨
+
 
 
 
